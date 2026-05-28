@@ -124,19 +124,14 @@ Established a successful Remote Desktop Protocol (RDP) session to the Azure virt
 
 ---
 
-## 6. NSG Server Subnet Configuration
 
-![NSG Server](screenshots/06-nsg-server.png)
-
----
-
-## 7. Secure RDP Rule
+## 6. Secure RDP Rule
 
 ![RDP Rule](screenshots/07-rdp-rule.png)
 
 ---
 
-## 8. Successful RDP Session
+## 7. Successful RDP Session
 
 ![RDP Login](screenshots/08-rdp-login.png)
 
