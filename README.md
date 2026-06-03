@@ -114,7 +114,7 @@ Established a successful Remote Desktop Protocol (RDP) session to the Azure virt
 
 ## 4. VM Networking Configuration
 
-![Networking](screenshots/04-networking.png)
+![Networking](screenshots/04-vm-networking-configuration.png)
 
 ---
 
@@ -127,13 +127,13 @@ Established a successful Remote Desktop Protocol (RDP) session to the Azure virt
 
 ## 6. Secure RDP Rule
 
-![RDP Rule](screenshots/07-rdp-rule.png)
+![RDP Rule](screenshots/06-rdp-rule.png)
 
 ---
 
 ## 7. Successful RDP Session
 
-![RDP Login](screenshots/08-rdp-login.png)
+![RDP Login](screenshots/07-rdp-login.png)
 
 ---
 
